@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Doeunnny's CV"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Master of Science in Biomedical Science" # site tagline that appears below site title in masthead
 name                     : "Doeun.Kim"
 description              : "Asan Medical Center - ongoing"
 url                      : "https://doeunnny.github.io"
