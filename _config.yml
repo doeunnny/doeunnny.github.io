@@ -323,3 +323,6 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
+
+data_format: "%Y-%m-%d"
